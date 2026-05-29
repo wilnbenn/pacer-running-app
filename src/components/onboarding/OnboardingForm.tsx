@@ -435,7 +435,7 @@ function StepBodyGoal({
   return (
     <div className="space-y-3">
       <p className="text-sm text-neutral-500 mb-4">
-        Your nutrition targets will adapt to each day's training load. This goal
+        Your nutrition targets will adapt to each day&apos;s training load. This goal
         shapes the overall calorie level.
       </p>
       {goals.map(({ value, label, description }) => (
